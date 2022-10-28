@@ -1,0 +1,7 @@
+https://download.splunk.com/products/splunk_soar-unpriv/releases/5.3.4/linux/splunk_soar-unpriv-5.3.4.95226-e7cead8c-el7-x86_64.tgz
+
+
+
+
+
+ tar xvf splunk_soar-unpriv-5.3.4.95226-e7cead8c-el7-x86_64.tgz
